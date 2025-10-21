@@ -58,6 +58,13 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp 
 </div>
+---
+###  Тестовые артефакты:
+
+ <div class="task">
+            <p><strong>Задание 1</strong> - На основании описания приложения вам необходимо предположить:
+            Какие методы тестирования будут использованы для данного приложения? На каких уровнях может проводиться тестирование данного приложения? Какие функциональные и нефункциональные типы тестирования могут быть использованы для данного приложения?</p>
+            <a href="https://docs.google.com/spreadsheets/d/1g3Y7EsegNGoPmp6oTPTCGCZ-JR_760BvPAaLUg5wFWs/edit?usp=sharing" class="task-link">Ссылка на решение</a>
+        </div>
