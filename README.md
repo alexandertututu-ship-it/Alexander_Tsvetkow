@@ -62,9 +62,6 @@
 </div>
 ---
 ###  Тестовые артефакты:
+Работа с тестовой документацией - (https://github.com/alexandertututu-ship-it/-)
+Тестирование веб приложения - (https://github.com/alexandertututu-ship-it/---/blob/main/README.md)
 
- <div class="task">
-            <p><strong>Задание 1</strong> - На основании описания приложения вам необходимо предположить:
-            Какие методы тестирования будут использованы для данного приложения? На каких уровнях может проводиться тестирование данного приложения? Какие функциональные и нефункциональные типы тестирования могут быть использованы для данного приложения?</p>
-            <a href="https://docs.google.com/spreadsheets/d/1g3Y7EsegNGoPmp6oTPTCGCZ-JR_760BvPAaLUg5wFWs/edit?usp=sharing" class="task-link">Ссылка на решение</a>
-        </div>
